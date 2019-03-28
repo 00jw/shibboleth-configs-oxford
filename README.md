@@ -2,8 +2,8 @@ A few configs to make life easier
 
 ## shibboleth2.test.xml
 
-Rename to shibboleth2.xml for use. For generating the metadata required for registration.
-
+Rename to shibboleth2.xml for use. For generating the metadata required for registration. Be sure to add the correct entityID
+x
 
 ## shibboleth2.production.xml
 
