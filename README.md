@@ -1,15 +1,15 @@
 A few configs to make life easier
 
-## shibboleth2.test.xml`
+## shibboleth2.test.xml
 
-Rename to shibboleth2.xml for use. For generating the metadata required for registration
+Rename to shibboleth2.xml for use. For generating the metadata required for registration.
 
 
 ## shibboleth2.production.xml
 
-Rename to shibboleth2.xml for use.
+Rename to shibboleth2.xml for use. Add the correct entityID and supportContact attributes.
 
-Changes from default:
+Config includes:
  - EPPN descoping
  - Oxford only metadata
  - Longer timeout
