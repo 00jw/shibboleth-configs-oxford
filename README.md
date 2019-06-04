@@ -21,7 +21,7 @@ Config includes:
 
 Example configs are named shibboleth3.test.xml and shibboleth3.production.xml. Still rename these to shibboleth2.xml. 
 
-## shibtest/index.php
+# shibtest/index.php
 
 add to apache webroot and protect with
 
