@@ -21,7 +21,7 @@
     -->
 
     <!-- The ApplicationDefaults element is where most of Shibboleth's SAML bits are defined. -->
-    <ApplicationDefaults entityID="https://FDQN/shibboleth"
+    <ApplicationDefaults entityID="https://FQDN/shibboleth"
                          REMOTE_USER="eppn persistent-id targeted-id">
 
         <!--
